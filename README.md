@@ -145,22 +145,7 @@ The interface provides result tables, plots, indicators, and topology visualizat
 
 ---
 
-## Screenshots
 
-Create a folder named `screenshots/` and place your application screenshots inside it.
-
-Recommended structure:
-
-```text
-screenshots/
-├── home-interface.png
-├── matrices-page.png
-├── loadflow-results.png
-├── comparison-voltage-profile.png
-├── comparison-active-losses.png
-├── comparison-execution-time.png
-└── transient-stability.png
-```
 
 ### Home Interface
 
