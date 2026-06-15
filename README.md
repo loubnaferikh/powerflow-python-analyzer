@@ -281,7 +281,7 @@ These systems are used to validate the implemented algorithms and evaluate their
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/powerflow-python-analyzer.git
+git clone https://github.com/loubnaferikh/powerflow-python-analyzer.git
 cd powerflow-python-analyzer
 ```
 
